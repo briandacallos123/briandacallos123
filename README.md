@@ -8,13 +8,9 @@
 
 - 🌱 I’m currently learning **AWS, Unit Testing**
 
-- 👨‍💻 All of my projects are available at [https://final-portfolio-lchg.vercel.app/](https://final-portfolio-lchg.vercel.app/)
-
 - 💬 Ask me about **React, Next JS, Frontend stuff.**
 
 - 📫 How to reach me **dacallosbrian123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cmHTyg4UD1es6qnXNqBnN8nh7nuDSh2i/view?usp=drive_link](https://drive.google.com/file/d/1cmHTyg4UD1es6qnXNqBnN8nh7nuDSh2i/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
