@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briandacallos123&label=Profile%20views&color=0e75b6&style=flat" alt="briandacallos123" /> </p>
 
-- 🔭 I’m currently working on [HIPS](https://hip.apgitsolutions.com/)
 
 - 🌱 I’m currently learning **AWS, Unit Testing**
 
